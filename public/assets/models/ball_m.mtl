@@ -1,0 +1,5 @@
+newmtl defaultMat
+
+map_Kd ball_pattern1.png
+map_Ks ball_specular.png
+bump ball_normals.png
